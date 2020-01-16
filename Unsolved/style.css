@@ -6,9 +6,14 @@
 
 #name {
 
+  float: left;
+}
+
+#name p {
+  float: right;
 }
 
 #contact {
-
+  float: right;
 }
 
